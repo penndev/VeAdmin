@@ -1,1 +1,0 @@
-import{s as t}from"./request-2ce32609.js";const r=e=>t({url:"/stat",method:"get",params:e,viewLoading:!1}),s=e=>t({url:"/domain",method:"get",params:e}),m=e=>t({url:"/example/admin",method:"post",data:e}),o=e=>t({url:"/example/admin",method:"put",data:e}),n=e=>t({url:"/example/admin",method:"delete",params:e});export{o as a,n as d,s as g,m as p,r as s};
