@@ -1,1 +1,0 @@
-import{s as e}from"./request-ed5410e5.js";const r=t=>e({url:"/stat",method:"get",params:t,viewLoading:!1}),s=t=>e({url:"/domain",method:"get",params:t}),a=t=>e({url:"/domain",method:"put",data:t});export{s as g,a as p,r as s};
