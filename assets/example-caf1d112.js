@@ -1,1 +1,0 @@
-import{s as t}from"./request-5fa3eb08.js";const m=e=>t({url:"/example/admin",method:"get",params:e}),r=e=>t({url:"/example/admin",method:"post",data:e}),p=e=>t({url:"/example/admin",method:"put",data:e}),l=e=>t({url:"/example/admin",method:"delete",params:e});export{p as a,l as d,m as g,r as p};
