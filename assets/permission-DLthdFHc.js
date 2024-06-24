@@ -1,1 +1,0 @@
-import{s as t}from"./request-BsH2jed7.js";const o=e=>t({url:"/system/role",method:"get",params:e}),r=e=>t({url:"/system/role",method:"post",data:e}),l=e=>t({url:"/system/role",method:"put",data:e}),m=e=>t({url:"/system/role",method:"delete",params:e});export{l as a,m as d,o as g,r as p};
